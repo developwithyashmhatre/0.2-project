@@ -2,7 +2,7 @@
 
 ![Video Streaming Rewards](https://img.shields.io/badge/Video%20Streaming%20Rewards-Next.js%20%7C%20Node.js%20%7C%20MongoDB%20%7C%20Firebase-blue)
 
-A YouTube-like video streaming platform designed to offer users an interactive video-sharing experience, including advanced features like ad revenue generation, video uploads, and user management. This project is built with **Next.js**, **Node.js**, **MongoDB**, **Firebase**, and **Microsoft SQL Server**.
+A YouTube-like video streaming platform designed to offer users an interactive video-sharing experience, including advanced features like ad revenue generation, video uploads, and user management. This project is built with **Next.js**, **Node.js**, **MongoDB**, **Firebase**.
 
 ## Features
 
@@ -45,21 +45,18 @@ A YouTube-like video streaming platform designed to offer users an interactive v
 
 - **Database Integration:**  
   - **MongoDB** for storing video data and thumbnails.
-  - **Microsoft SQL Server** for managing complex queries, user data, and financial reports.
+
 
 - **Node.js Backend:**  
   Handles API requests, video processing, and data management.
 
-- **Netlify Deployment:**  
-  Seamlessly hosted on Netlify for fast, global access.
 
 ## Tech Stack
 - **Frontend:** Next.js (React Framework)
 - **Backend:** Node.js
-- **Database:** MongoDB & Microsoft SQL Server
+- **Database:** MongoDB
 - **Authentication:** Firebase
-- **Hosting:** Netlify
-- **Ad Integration:** AdMob (for ad revenue management)
+- **Ad Integration:** adsense (for ad revenue management)
 
 ## Installation
 
