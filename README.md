@@ -65,5 +65,5 @@ A YouTube-like video streaming platform designed to offer users an interactive v
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/0.2-project.git
-   cd 0.2-project
+   git clone https://github.com/yourusername/your-repo-name.git
+   cd your-repo-name
